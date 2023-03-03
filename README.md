@@ -3,9 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=130&animation=twinkling)
 <div align=center><div > 
-### Hi there 👋
-<h2> 열심히 배우고 있는것 💦💦💦</h2>
-<h4> Front </h4>
+<h2> 🔭 열심히 배우고 있는것 💦💦💦</h2>
+<h4> 😄Front </h4>
   <img
     src="https://img.shields.io/badge/HTML5-FC4C02?style=flat&logo=HTML5&logoColor=white" />
     <img
@@ -17,7 +16,7 @@
     src="https://img.shields.io/badge/리액트-764ABC?style=flat&logo=react&logoColor=white" />
   
 </div>
-<h4> Back </h4>
+<h4> 😄Back </h4>
 
 <div >
   <img
@@ -29,7 +28,7 @@
   <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
  </div>
-<h4> Tool </h4>
+<h4> 😄Tool </h4>
 <div >
   <img
     src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
