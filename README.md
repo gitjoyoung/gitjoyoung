@@ -1,8 +1,10 @@
 
 
+<div align=center >
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=100&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=130&animation=twinkling)
-<div align=center><div > 
+  <div > 
 <h2>  열심히 배우고 있는것 💦💦💦</h2>
 <h4> Front </h4>
   <img
@@ -51,14 +53,12 @@
     src="https://img.shields.io/badge/타입스크립트-6236FF?style=flat&logo=TypeScript&logoColor=white" />
  
 </div>
-  </div>
-
  
-<br>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=130&animation=twinkling&rotate=-30&section=footer)
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=100&animation=twinkling&rotate=-30&section=footer)
   
-
+</div>
 
 <!--
 **gitjoyoung/gitjoyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
