@@ -16,7 +16,10 @@
 
   <img
     src="https://img.shields.io/badge/리액트-764ABC?style=flat&logo=react&logoColor=white" />
-  
+   <img
+    src="https://img.shields.io/badge/Vite-FFDB00?style=flat&logo=Vite&logoColor=white" />
+<img
+    src="https://img.shields.io/badge/타입스크립트-6236FF?style=flat&logo=TypeScript&logoColor=white" />
 </div>
 <h4> Back </h4>
 
@@ -45,15 +48,7 @@
  
 </div>
   
-  <h4> 앞으로 배울것 </h4>
-<div >
- <img
-    src="https://img.shields.io/badge/Vite-FFDB00?style=flat&logo=Vite&logoColor=white" />
-<img
-    src="https://img.shields.io/badge/타입스크립트-6236FF?style=flat&logo=TypeScript&logoColor=white" />
- 
-</div>
- 
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&text=&fontAlign=80&fontAlignY=40&fontSize=30&height=100&animation=twinkling&rotate=-30&section=footer)
