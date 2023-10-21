@@ -8,13 +8,17 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgitjoyoung%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23EFEFEF&title=hits&edge_flat=true"/></a>
 </div>
 <br>
+
+<div> 
+         <img
+    src="https://img.shields.io/badge/플루터-FFFFFF?style=flat&logo=flutter&logoColor=blue" />
+</div>
   <div >  
 <img
     src="https://img.shields.io/badge/리액트-764ABC?style=flat&logo=react&logoColor=white" />
 <img
     src="https://img.shields.io/badge/타입스크립트-6236FF?style=flat&logo=TypeScript&logoColor=white" />
-         <img
-    src="https://img.shields.io/badge/플루터-FFFFFF?style=flat&logo=flutter&logoColor=blue" />
+
 </div>
 
 
