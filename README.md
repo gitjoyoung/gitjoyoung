@@ -17,19 +17,10 @@
     src="https://img.shields.io/badge/플루터-FFFFFF?style=flat&logo=flutter&logoColor=blue" />
 </div>
 
-<div >
-  <img
-    src="https://img.shields.io/badge/파이썬-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img
-    src="https://img.shields.io/badge/장고-092E20?style=flat&logo=Django&logoColor=white" />
-
- </div>
 
 <div >
   <img
     src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-  <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 
 </div>
   
