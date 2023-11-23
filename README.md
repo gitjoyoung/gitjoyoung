@@ -13,10 +13,8 @@
 
   <!-- Technology badges -->
   <div> 
-    <img src="https://img.shields.io/badge/플루터-FFFFFF?style=flat&logo=flutter&logoColor=blue" />
-  </div>
-  <div>
     <img src="https://img.shields.io/badge/리액트-764ABC?style=flat&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/플루터-FFFFFF?style=flat&logo=flutter&logoColor=blue" />
   </div>
 
   <!-- IDE badge -->
