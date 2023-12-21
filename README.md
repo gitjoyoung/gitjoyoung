@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Waving header capsule with twinkling animation -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&height=100&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=484f58&height=100&animation=twinkling" />
 
   <!-- Hit counter badge -->
   <div>
@@ -23,6 +23,6 @@
   </div>
 
   <!-- Waving footer capsule with twinkling animation -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,20,30,40,20,30&height=100&animation=twinkling&rotate=-30&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=484f58&height=100&animation=twinkling&rotate=-30&section=footer" />
   
 </div>
