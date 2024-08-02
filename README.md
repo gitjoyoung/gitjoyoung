@@ -1,8 +1,8 @@
 ```js
 const joyoung = {
-  pronouns: "🙋‍♂️he" | "💁‍♂️him",
+  pronouns: "he" | "him",
   fresher: 2022,
-  presentPosition: "👨‍💻Web Front-end Developer👩‍💻",
+  presentPosition: "Web Front-end Developer",
   liveIn: "Seoul",
   makeWith: {
     code: ['JavaScript', 'Typescript', 'HTML', 'CSS'],
