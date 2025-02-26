@@ -1,29 +1,5 @@
 ```tsx
-export interface Profile {
- pronouns: string;
- startedIn: number;
- presentPosition: string;
- liveIn: string;
- skills: {
-   primary: {
-     languages: string[];
-     frameworks: string[];
-     libraries: string[];
-     styling: string[];
-   };
-   secondary: {
-     languages: string[];
-     frameworks: string[];
-     databases: string[];
-     servers: string[];
-   };
- };
- hobbies?: string[];
-};
-
-// @TODO: "Little by little, one travels far" - J.R.R. Tolkien
-// Personal growth and skill development journey
-export const joYoung: Profile = {
+const JO_YOUNG = {
  pronouns: "he/him",
  startedIn: 2022,
  presentPosition: "Web Front-end Developer",
@@ -37,11 +13,11 @@ export const joYoung: Profile = {
    },
    secondary: {
      languages: ["Java", "Python", "Dart"],
-     frameworks: ["Django", "Flutter", "JSP"],
+     frameworks: ["Django", "Flutter"],
      databases: ["MySQL"],
      servers: ["Apache Tomcat", "Nginx"]
    }
  },
- hobbies: ["✈️ Travel", "🚶 Walking", "🏊 Swimming", "🎳 Bowling"],
+ hobbies: ["👨‍💻Promgraming", "✈️ Travel", "🚶 Walking", "🏊 Swimming", "🎳 Bowling"],
 }
 ```
