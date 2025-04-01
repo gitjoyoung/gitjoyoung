@@ -9,7 +9,7 @@ const JO_YOUNG = {
      languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
      frameworks: ["React v18", "Next.js v14"],
      libraries: ["React Query", "React Hook Form", "Zustand" , "D3", "Rechart"],
-     styling: ["Styled Components", "Tailwind CSS", "Ant Design", "Shadcn"]
+     styling: ["Tailwind CSS", "Shadcn"]
    },
    secondary: {
      languages: ["Java", "Python", "Dart"],
