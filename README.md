@@ -1,5 +1,5 @@
 ```tsx
-const JO_YOUNG = {
+let JO_YOUNG = {
  pronouns: "he/him",
  startedIn: 2022,
  presentPosition: "Web Front-end Developer",
