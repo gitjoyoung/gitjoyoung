@@ -6,16 +6,13 @@ const JO_YOUNG = {
  liveIn: "Seoul",
  skills: {
    primary: {
-     languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+     languages: ["TypeScript", "HTML", "CSS"],
      frameworks: ["React v18", "Next.js v14"],
-     libraries: ["React Query", "React Hook Form", "Zustand" , "D3", "Rechart"],
-     styling: ["Tailwind CSS", "Shadcn"]
    },
    secondary: {
-     languages: ["Java", "Python", "Dart"],
+     languages: ["Python", "Dart"],
      frameworks: ["Django", "Flutter"],
-     databases: ["MySQL"],
-     servers: ["Apache Tomcat", "Nginx"]
+     databases: ["PostgreSQL"],
    }
  },
  hobbies: ["👨‍💻Promgraming", "✈️ Travel", "🚶 Walking", "🏊 Swimming", "🎳 Bowling"],
