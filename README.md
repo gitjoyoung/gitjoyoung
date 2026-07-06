@@ -7,7 +7,7 @@ let JO_YOUNG = {
  skills: {
    primary: {
      languages: ["TypeScript", "HTML", "CSS"],
-     frameworks: ["React v18", "Next.js v14"],
+     frameworks: ["React", "Next.js"],
    },
    secondary: {
      languages: ["Python", "Dart"],
