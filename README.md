@@ -15,6 +15,6 @@ let JO_YOUNG = {
      databases: ["PostgreSQL"],
    }
  },
- hobbies: ["👨‍💻Promgraming", "✈️ Travel", "🚶 Walking", "🏊 Swimming", "🎳 Bowling"],
+ hobbies: ["👨‍💻Programming", "🏊 Swimming", "🎳 Bowling"],
 }
 ```
