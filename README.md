@@ -2,17 +2,16 @@
 let JO_YOUNG = {
  pronouns: "he/him",
  startedIn: 2022,
- presentPosition: "Web Front-end Developer",
- liveIn: "Seoul",
+ presentPosition: "Web Developer",
+ liveIn: "South Korea Seoul",
  skills: {
    primary: {
-     languages: ["TypeScript", "HTML", "CSS"],
+     languages: ["TypeScript"],
      frameworks: ["React", "Next.js"],
    },
    secondary: {
-     languages: ["Python", "Dart"],
+     languages: ["Python", "Dart", "PostgreSQL"],
      frameworks: ["Django", "Flutter"],
-     databases: ["PostgreSQL"],
    }
  },
  hobbies: ["👨‍💻Programming", "🏊 Swimming", "🎳 Bowling"],
