@@ -3,7 +3,7 @@ let JO_YOUNG = {
  pronouns: "he/him",
  startedIn: 2022,
  presentPosition: "Web Developer",
- liveIn: "South Korea Seoul",
+ liveIn: "Seoul, South Korea",
  skills: {
    primary: {
      languages: ["TypeScript"],
